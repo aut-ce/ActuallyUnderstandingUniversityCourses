@@ -9,3 +9,4 @@ How to actually get an intuition from what's being taught at Iranian universitie
 
 * [Mathematics II - Curl and Divergence](https://www.youtube.com/watch?v=rB83DpBJQsE) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
 
+* [General Relativity course](https://www.youtube.com/watch?v=JRZgW1YjCKk&list=PLXLSbKIMm0kh6XsMSCEMnM02kEoW_8x-f) - Leonard Susskind - Stanford University 
