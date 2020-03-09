@@ -5,6 +5,8 @@ How to actually get an intuition from what's being taught at Iranian universitie
 
 ## Math-related courses and playlists
 
+### test
+
 * [Probability and Statistics course](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - Joe Blitzstein (Google his name, seriously) - Harvard University
 
 * [Differential Equations course](https://www.youtube.com/playlist?list=PLEC88901EBADDD980) - MIT
@@ -16,6 +18,8 @@ How to actually get an intuition from what's being taught at Iranian universitie
 * [Essence of Calculus](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
 
 * [Essence of Linear Algebra](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
+
+* [Multivariable Calculus)(https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - MIT
 
 ## Physics-related courses and playlists
 
