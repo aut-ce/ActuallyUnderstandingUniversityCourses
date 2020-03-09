@@ -11,6 +11,8 @@ How to actually get an intuition from what's being taught at Iranian universitie
 
 * [Differential Equations](https://www.youtube.com/playlist?list=PLEC88901EBADDD980) - MIT
 
+* [Multivariable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - MIT
+
 ### Youtube Playlists
 * [Understanding Differential Equations](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
 
@@ -19,8 +21,6 @@ How to actually get an intuition from what's being taught at Iranian universitie
 * [Essence of Calculus](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
 
 * [Essence of Linear Algebra](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
-
-* [Multivariable Calculus)(https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - MIT
 
 ## Physics-related
 ### University Courses
