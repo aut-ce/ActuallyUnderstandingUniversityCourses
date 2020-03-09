@@ -13,6 +13,8 @@ How to actually get an intuition from what's being taught at Iranian universitie
 
 * [Multivariable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - MIT
 
+* [Linear Algebra](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) - Gilbert Strang - MIT
+
 ### Youtube Playlists
 * [Understanding Differential Equations](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
 
