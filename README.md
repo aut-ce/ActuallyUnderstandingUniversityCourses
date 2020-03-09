@@ -24,3 +24,4 @@ How to actually get an intuition from what's being taught at Iranian universitie
 * [Classical Mechanics course](https://www.youtube.com/playlist?list=PL47F408D36D4CF129) - Leonard Susskind - Stanford University 
 
 ## ComputerScience-related courses and playlists
+* [Advanced Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) - MIT
