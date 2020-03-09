@@ -1,7 +1,7 @@
 # A List of useful courses from around the world to make up for the shortcomings of our universities.
 How to actually get an intuition from what's being taught at Iranian universities, which is awfully memory-based and lacks a proper understanding.
 
-### For a list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome), I'll try to update this repository with courses that I think would be more useful for an undergrad student who's studying in Iran.
+# For a better list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome).
 
 ## Math-related
 
