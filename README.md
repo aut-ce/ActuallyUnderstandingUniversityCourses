@@ -1,16 +1,17 @@
 # A List of useful courses from around the world to make up for the shortcomings of our universities.
 How to actually get an intuition from what's being taught at Iranian universities, which is awfully memory-based and lacks a proper understanding.
 
-## For a list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome), I'll try to update this repository with courses that I think would be more useful for an undergrad student who's studying in Iran.
+### For a list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome), I'll try to update this repository with courses that I think would be more useful for an undergrad student who's studying in Iran.
 
-## Math-related courses and playlists
+## Math-related
 
-### test
+### University Courses
 
-* [Probability and Statistics course](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - Joe Blitzstein (Google his name, seriously) - Harvard University
+* [Probability and Statistics](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - Joe Blitzstein (Google his name, seriously) - Harvard University
 
-* [Differential Equations course](https://www.youtube.com/playlist?list=PLEC88901EBADDD980) - MIT
+* [Differential Equations](https://www.youtube.com/playlist?list=PLEC88901EBADDD980) - MIT
 
+### Youtube Playlists
 * [Understanding Differential Equations](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
 
 * [Mathematics II - Curl and Divergence](https://www.youtube.com/watch?v=rB83DpBJQsE) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
@@ -21,11 +22,12 @@ How to actually get an intuition from what's being taught at Iranian universitie
 
 * [Multivariable Calculus)(https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - MIT
 
-## Physics-related courses and playlists
-
+## Physics-related
+### University Courses
 * [General Relativity course](https://www.youtube.com/watch?v=JRZgW1YjCKk&list=PLXLSbKIMm0kh6XsMSCEMnM02kEoW_8x-f) - Leonard Susskind - Stanford University 
 
 * [Classical Mechanics course](https://www.youtube.com/playlist?list=PL47F408D36D4CF129) - Leonard Susskind - Stanford University 
 
-## ComputerScience-related courses and playlists
+## ComputerScience-related
+### University Courses
 * [Advanced Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) - MIT
