@@ -159,7 +159,7 @@ Note that Prof. Leiserson's syllabus only slightly coincides with CE@AUT's Multi
 ![_ Recommended](https://img.shields.io/badge/-Recommended-blueviolets) 
 * Prof Dennis Freeman - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs) 
 
-Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught it CE@AUT.
+Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught in CE@AUT.
 
 ### Artifical Intelligence
 * Prof. Patrick Winston - MIT: : [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) 
