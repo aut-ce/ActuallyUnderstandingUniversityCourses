@@ -163,7 +163,7 @@ Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessor
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 
 Note that Prof. Pavlo's course seems like a very advanced course that goes beyond the CE@AUT course's material quickly.
-* دکتر مرتضی امینی - دانشگاه صنعتی شریف - [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/)
+* دکتر مرتضی امینی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/)
 
 ### MultiCore Programming
 * GPU Teaching Kit - Accelerated Computing: [Course Material (including Video Lectures)](http://syllabus.gputeachingkit.com/)
@@ -172,13 +172,13 @@ Note that Prof. Pavlo's course seems like a very advanced course that goes beyon
 Note that Prof. Leiserson's syllabus only slightly coincides with CE@AUT's Multiprogramming course.
 
 ### Signals and Systems
-* Prof Alan Oppenheim - MIT: [Course Material](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) 
+* Prof. Alan Oppenheim - MIT: [Course Material](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) 
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 * Fourier Transforms and its Applications - Prof. Brad Osgood - Stanford Unviersity: [Video Lectures](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-mk398/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) 
 ![Recommended](https://img.shields.io/badge/-Recommended-blueviolet) 
 ![Syllabus More](https://img.shields.io/badge/Syllabus-Different-lightgray)
-* Prof Dennis Freeman - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs) 
+* Prof. Dennis Freeman - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs) 
 
 Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught in CE@AUT.
 
