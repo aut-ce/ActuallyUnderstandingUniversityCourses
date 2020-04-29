@@ -6,6 +6,8 @@ NOTE that as we are practically unable to find courses, let alone verifying the 
 ## For a general list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome).
 
 #### Introduction to Computer Science and Programming
+* Prof. John Gutlag - MIT University [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) - [Video Lectures](https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7)
+Keep in mind that this course teaches Python as its primary programming language, so it could only replace CE101 in terms of concepts since CE101's primary language is C.
 
 ## Math-related
 
