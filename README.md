@@ -5,6 +5,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 ### Some notes and disclaimers:
 * Some of the courses have been watched by the maintainers of this repo and have been qualified as being able to provide  high-quality education for the interested. The said courses will have ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) in front of them.
 * Some of the courses have almost the same syllabus as the courses taught in AUT. Those will be marked by ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue). If it does that and then some, it'll be tagged with ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange), If it only partially covers the AUT course, it'll be tagged with ![Syllabus Less](https://img.shields.io/badge/Syllabus-Less-red) and if it is only related to the AUT course, it'll be tagged with ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
+* On the same note, we don't guarantee that our badges are 100% accurate, they're just our estimation. 
 * As we're practically unable to find all the good courses -let alone verifying the quality and the syllabus of them-, issues and pull requests are deeply appreciated. 
 * On the same note, some unverified courses might be removed in the future if they prove themselves to be unfitting.
 * You should use a VPN in order to gain access to edX courses as Iranian users are denied access due to U.S sanctions.
@@ -111,6 +112,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 * معادلات دیفرانسیل - دکتر امیر جعفری - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/)
+![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
 ### Data Structures & Algorithms
 * Data Structures and Advanced Programming - Prof. Jonathan Shewchuk - University of Berekley: [Course Material](https://people.eecs.berkeley.edu/~jrs/61b/) - [Video Lectures](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61b-spring2014-berkeley.html)
@@ -121,12 +123,14 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 
 ### Logical Circuits
 * مدارهای منطقی - دکتر محمود تابنده - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D8%AF%D8%A7%D8%B1-%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%B7%D9%82%DB%8C-mk85/)
+![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 * مدارهای منطقی - دکتر زین‌العابدین نوابی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/278-%D9%85%D8%AF%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%B7%D9%82%DB%8C-mk278/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 
 ### Electrical Circuits
 * Prof. Ali Hajmiri - Caltech: [Video Lectures](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z)
+![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 
 ### Computer Organization and Architecture
 * Prof. Onur Mutlu - Carnegie Mellon University: - [Video Lectures](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
