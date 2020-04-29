@@ -118,6 +118,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 * Data Structures and Advanced Programming - Prof. Jonathan Shewchuk - University of Berekley: [Course Material](https://people.eecs.berkeley.edu/~jrs/61b/) - [Video Lectures](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61b-spring2014-berkeley.html)
 * Introduction to Algorithms - Prof. Erik Demaine - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 * Advanced Data Structures - Prof. Erik Demaine - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
+* Advanced Algorithms - Prof. Jelani Nelson - Harvard University: [Course Material](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) - [Video Lectures](https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 * طراحی الگوریتم‌ها - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%AF%DA%A9%D8%AA%D8%B1-%D8%B4%D8%B1%DB%8C%D9%81%DB%8C-%D8%B2%D8%A7%D8%B1%DA%86%DB%8C-mk662/)
 * طراحی الگوریتم - دکتر محمد قدسی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/231-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-mk231/)
 
@@ -186,6 +187,8 @@ Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught
 * Prof. Patrick Winston - MIT: : [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) 
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus Less](https://img.shields.io/badge/Syllabus-Less-red)
+
+* Prof. Bryan Yu - Harvard University: [edX Course](https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/)
 
 Only Prof. Winston's first half of the course has the same syllabus as CE@AUT's course.
 
