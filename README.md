@@ -23,7 +23,7 @@ Keep in mind that this course teaches Python as its primary programming language
 
 ### Mathematics for Computer Science
 * Prof. Tom Leighton - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
-* Prof. Albert R. Meyer MIT: [Course Material (Video lectures inside)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+* Prof. Albert R. Meyer - MIT: [Course Material (Video lectures inside)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
 Keep in mind that the above courses only quite loosely cover the material presented in CE103 (Discrete Mathematics) and you'll need to read the domestic course's material as well.
 
@@ -78,7 +78,7 @@ Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessor
 
 ### Automata Theory
 * Prof. Jeff Ulman - Stanford University: [edX Course](https://www.edx.org/course/automata-theory)
-* Prof. ??? - UC Davis [Video Lectures](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
+* Prof. ??? - UC Davis: [Video Lectures](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
 
 ## Math-related
 
