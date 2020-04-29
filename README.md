@@ -4,7 +4,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 
 ### Some notes and disclaimers:
 * Some of the courses have been watched by the maintainers of this repo and have been qualified as being able to provide  high-quality education for the interested.
-* As we're practically unable to find all the good courses, let alone verifying the quality and the syllabus of them. Therefore issues and pull requests are deeply appreciated. 
+* As we're practically unable to find all the good courses -let alone verifying the quality and the syllabus of them-, issues and pull requests are deeply appreciated. 
 * You should use a VPN in order to gain access to edX courses as Iranian users are denied access due to U.S sanctions.
 * Enlisting a course here doesn't mean that anyone here thinks any particular professor can't teach properly.
 
