@@ -1,7 +1,11 @@
 # A List of useful courses from around the world to make up for the shortcomings of our universities.
 How to actually get an intuition from what's being taught at Iranian universities, which is awfully memory-based and lacks a proper understanding.
+This list is mostly based on the educational planning of CE@AUT, with some additional content.
+NOTE that as we are practically unable to find courses, let alone verifying the quality and the syllabus of them, issues and pull requests are deeply appreciated. 
 
-# For a better list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome).
+## For a general list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome).
+
+#### Introduction to Computer Science and Programming
 
 ## Math-related
 
