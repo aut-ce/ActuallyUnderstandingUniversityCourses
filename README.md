@@ -116,6 +116,7 @@ Note that Prof. Leiserson's syllabus only slightly coincides with CE@AUT's Multi
 
 ### Signals and Systems
 * Prof Alan Oppenheim - MIT: [Course Material](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) 
+* Fourier Transforms and its Applications - Prof. Brad Osgood - Stanford Unviersity: [Video Lectures](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-mk398/) RECOMMENDED
 * Prof Dennis Freeman - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs) 
 
 Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught it CE@AUT.
@@ -162,7 +163,7 @@ Note that only Prof. Winston's first half of the course has the same syllabus as
 * دکتر محمدهادی فروغمند - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-mk398/)
 
 
-### Youtube Playlists
+### Related Youtube Playlists
 * [Understanding Differential Equations](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
 
 * [Mathematics II - Curl and Divergence](https://www.youtube.com/watch?v=rB83DpBJQsE) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
@@ -170,13 +171,3 @@ Note that only Prof. Winston's first half of the course has the same syllabus as
 * [Essence of Calculus](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
 
 * [Essence of Linear Algebra](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
-
-## Physics-related
-### University Courses
-* [General Relativity course](https://www.youtube.com/watch?v=JRZgW1YjCKk&list=PLXLSbKIMm0kh6XsMSCEMnM02kEoW_8x-f) - Leonard Susskind - Stanford University 
-
-* [Classical Mechanics course](https://www.youtube.com/playlist?list=PL47F408D36D4CF129) - Leonard Susskind - Stanford University 
-
-## ComputerScience-related
-### University Courses
-* [Advanced Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) - MIT
