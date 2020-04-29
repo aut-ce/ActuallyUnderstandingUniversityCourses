@@ -78,16 +78,18 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 
 ### Multi Variable Calculus
 * Prof. Denis Auroux - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) - [Video Lectures](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - [TA Sessions](https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01)
-* ریاضی ۲ - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B2-mk25/)
+* ریاضی ۲ - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B2-mk25/) ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
 ### Physics 2
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
-* دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%DB%B2-mk114/) ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
+* دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%DB%B2-mk114/) 
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 
 ### Probability and Statistics
 * Prof. Joe Blitzstein - Harvard University: [Course Material](https://projects.iq.harvard.edu/stat110/home) - [Video Lectures](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - [edX Course](https://www.edx.org/course/introduction-to-probability-0)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
+![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 * آمار و احتمال مهندسی - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-mk627/)
 * آمار و احتمال مهندسی - دکتر محمدمهدی نایبی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D8%A7%D8%B1-%D9%88-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-mk79/)
 
@@ -97,7 +99,8 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 
 ### Differential Equations
 * Prof. Haynes Miller - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLEC88901EBADDD980)
-* معادلات دیفرانسیل - دکتر دارا معظمی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/70-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84-mk70/)
+* معادلات دیفرانسیل - دکتر دارا معظمی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/70-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84-mk70/) 
+![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 * معادلات دیفرانسیل - دکتر امیر جعفری - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/)
 
 ### Data Structures & Algorithms
@@ -126,6 +129,7 @@ Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessor
 * Prof. Jeff Ulman - Stanford University: [edX Course](https://www.edx.org/course/automata-theory)
 * Prof. ??? - UC Davis: [Video Lectures](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
 * نظریه محاسبه - دکتر محمدهادی فروغمند - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87-mk380/)
+![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
 ### Microprocessors and Assembly Language
 {Currently Empty}
@@ -155,6 +159,7 @@ Note that Prof. Leiserson's syllabus only slightly coincides with CE@AUT's Multi
 
 ### Signals and Systems
 * Prof Alan Oppenheim - MIT: [Course Material](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) 
+![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 * Fourier Transforms and its Applications - Prof. Brad Osgood - Stanford Unviersity: [Video Lectures](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-mk398/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) 
 ![_ Recommended](https://img.shields.io/badge/-Recommended-blueviolets) 
