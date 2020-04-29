@@ -26,6 +26,11 @@ Keep in mind that the above courses only quite loosely cover the material presen
 
 * ریاضیات گسسته - دکتر میرامید حاجی میرصادقی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA-%DA%AF%D8%B3%D8%B3%D8%AA%D9%87-mk83/)
 
+#### Probability and Statistics
+* Prof. Joe Blitzstein - Harvard University: [Course Material](https://projects.iq.harvard.edu/stat110/home) - [Video Lectures](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - [edX Course](https://www.edx.org/course/introduction-to-probability-0)
+* آمار و احتمال مهندسی - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-mk627/)
+* آمار و احتمال مهندسی - دکتر محمدمهدی نایبی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D8%A7%D8%B1-%D9%88-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-mk79/)
+
 ## Math-related
 
 ### University Courses
