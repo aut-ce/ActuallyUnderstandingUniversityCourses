@@ -53,7 +53,8 @@ Keep in mind that this course uses Python as its primary programming language, s
 
 ### Single Variable Calculus
 * Prof. David Jerison - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) - [Video Lectures (including Useful TA Sessions)](https://www.youtube.com/playlist?list=PL39017AD85AC0EA05)
-* ریاضی ۱ - دکتر میرامید حاجی‌میرصادقی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/)
+* ریاضی ۱ - دکتر میرامید حاجی‌میرصادقی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/) 
+![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
 ### Physics 1
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
@@ -78,7 +79,8 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 
 ### Multi Variable Calculus
 * Prof. Denis Auroux - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) - [Video Lectures](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - [TA Sessions](https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01)
-* ریاضی ۲ - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B2-mk25/) ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
+* ریاضی ۲ - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B2-mk25/)
+![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
 ### Physics 2
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
@@ -146,7 +148,7 @@ Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessor
 
 ### Database Systems
 * Prof. Jennifer Widom - Stanford University: [Video Lectures](https://www.youtube.com/playlist?list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3)
-* Prof. Andy Pavlo  - Carnegie Mellon University: [Video Lectures (Notes and Slides in the description)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+* Prof. Andy Pavlo  - Carnegie Mellon University: [Video Lectures (Notes and Slides in the description)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi) 
 
 Note that Prof. Pavlo's course seems like a very advanced course that goes beyond the CE@AUT course's material quickly.
 * دکتر مرتضی امینی - دانشگاه صنعتی شریف - [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/)
