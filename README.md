@@ -17,7 +17,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 - [Physics 1](#physics-1)
 - [Mathematics for Computer Science](#mathematics-for-computer-science)
 - [Advanced Programming](#advanced-programming)
-- [MultiVariable Calculus](#multi-variable-calculus)
+- [Multi Variable Calculus](#multi-variable-calculus)
 - [Physics 2](#physics-2)
 - [Probability and Statistics](#probability-and-statistics)
 - [Linear Algebra](#linear-algebra)
