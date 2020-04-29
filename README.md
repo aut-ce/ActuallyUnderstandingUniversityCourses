@@ -154,7 +154,7 @@ Note that Prof. Leiserson's syllabus only slightly coincides with CE@AUT's Multi
 * Prof Alan Oppenheim - MIT: [Course Material](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) 
 * Fourier Transforms and its Applications - Prof. Brad Osgood - Stanford Unviersity: [Video Lectures](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-mk398/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) 
-![Recommended](https://img.shields.io/badge/-Recommended-blueviolets) 
+![_ Recommended](https://img.shields.io/badge/-Recommended-blueviolets) 
 * Prof Dennis Freeman - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs) 
 
 Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught it CE@AUT.
