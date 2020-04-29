@@ -4,6 +4,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 
 NOTE that as we're practically unable to find courses, let alone verifying the quality and the syllabus of them, issues and pull requests are deeply appreciated. 
 It's also worth noting that you should use a VPN in order to gain access to edX courses as Iranian users are denied access due to U.S sanctions.
+
 DISCLAIMER: Enlisting a course here doesn't mean that anyone here thinks any particular professor can't teach properly.
 
 ### For a general list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome).
