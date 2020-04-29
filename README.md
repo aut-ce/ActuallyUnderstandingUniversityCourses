@@ -4,7 +4,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 
 ### Some notes and disclaimers:
 * Some of the courses have been watched by the maintainers of this repo and have been qualified as being able to provide  high-quality education for the interested. The said courses will have ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) in front of them.
-* Some of the courses have more or less the same syllabus as the courses taught in AUT. Those will be marked by ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
+* Some of the courses have more or less the same syllabus as the courses taught in AUT. Those will be marked by ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue). If the course's material covers more/less of that course or if they're taught in a different order, they'll be badged as appropriate.
 * As we're practically unable to find all the good courses -let alone verifying the quality and the syllabus of them-, issues and pull requests are deeply appreciated. 
 * On the same note, some unverified courses might be removed in the future if they prove themselves to be unfitting.
 * You should use a VPN in order to gain access to edX courses as Iranian users are denied access due to U.S sanctions.
@@ -78,7 +78,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 
 ### Multi Variable Calculus
 * Prof. Denis Auroux - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) - [Video Lectures](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - [TA Sessions](https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01)
-* ریاضی ۱ - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B2-mk25/)
+* ریاضی ۲ - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B2-mk25/)
 
 ### Physics 2
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
