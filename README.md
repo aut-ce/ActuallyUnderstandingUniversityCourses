@@ -5,12 +5,14 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 NOTE that as we're practically unable to find courses, let alone verifying the quality and the syllabus of them, issues and pull requests are deeply appreciated. 
 It's also worth noting that you should use a VPN in order to gain access to edX courses as Iranian users are denied access due to U.S sanctions.
 
-## For a general list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome).
+### For a general list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome).
+
+## University Courses
 
 ### Introduction to Computer Science and Programming
 * Prof. John Gutlag - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
 
-Keep in mind that this course teaches Python as its primary programming language, so it could only replace CE101 in terms of concepts since CE101's primary language is C.
+Keep in mind that this course uses Python as its primary programming language, so it could only replace CE101 in terms of concepts since CE101 uses C.
 
 ### Single Variable Calculus
 * Prof. David Jerison - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) - [Video Lectures (including Useful TA Sessions)](https://www.youtube.com/playlist?list=PL39017AD85AC0EA05)
@@ -30,7 +32,9 @@ Keep in mind that the above courses only quite loosely cover the material presen
 * ریاضیات گسسته - دکتر میرامید حاجی میرصادقی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA-%DA%AF%D8%B3%D8%B3%D8%AA%D9%87-mk83/)
 
 ### Advanced Programming
-{Currently Empty}
+دکتر رامتین خسروی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk187/)
+
+Keep in mind that this course teaches C++ as its primary programming language, so it could only replace CE104 in terms of concepts since CE104 uses Java.
 
 ### MultiVariable Variable Calculus
 * Prof. Denis Auroux - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) - [Video Lectures](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - [TA Sessions](https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01)
@@ -79,6 +83,10 @@ Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessor
 ### Automata Theory
 * Prof. Jeff Ulman - Stanford University: [edX Course](https://www.edx.org/course/automata-theory)
 * Prof. ??? - UC Davis: [Video Lectures](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
+
+### Microprocessors and Aseembly
+{Currently Empty}
+
 
 ## Math-related
 
