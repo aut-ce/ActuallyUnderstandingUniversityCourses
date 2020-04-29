@@ -4,7 +4,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 
 ### Some notes and disclaimers:
 * Some of the courses have been watched by the maintainers of this repo and have been qualified as being able to provide  high-quality education for the interested. The said courses will have ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) in front of them.
-* Some of the courses have almost the same syllabus as the courses taught in AUT. Those will be marked by ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue). If it does that and then some, it'll be tagged with ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange), If it only partially covers the AUT course, it'll be tagged with ![Syllabus More](https://img.shields.io/badge/Syllabus-Less-red) and if it is only related to the AUT course, it'll be tagged with ![Syllabus More](https://img.shields.io/badge/Syllabus-Different-lightgray)
+* Some of the courses have almost the same syllabus as the courses taught in AUT. Those will be marked by ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue). If it does that and then some, it'll be tagged with ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange), If it only partially covers the AUT course, it'll be tagged with ![Syllabus Less](https://img.shields.io/badge/Syllabus-Less-red) and if it is only related to the AUT course, it'll be tagged with ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
 * As we're practically unable to find all the good courses -let alone verifying the quality and the syllabus of them-, issues and pull requests are deeply appreciated. 
 * On the same note, some unverified courses might be removed in the future if they prove themselves to be unfitting.
 * You should use a VPN in order to gain access to edX courses as Iranian users are denied access due to U.S sanctions.
@@ -180,8 +180,9 @@ Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught
 ### Artifical Intelligence
 * Prof. Patrick Winston - MIT: : [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) 
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
+![Syllabus Less](https://img.shields.io/badge/Syllabus-Less-red)
 
-Note that only Prof. Winston's first half of the course has the same syllabus as CE@AUT's course.
+Only Prof. Winston's first half of the course has the same syllabus as CE@AUT's course.
 
 * دکتر مهدیه سلیمانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/229-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-mk229/)
 
@@ -202,6 +203,8 @@ Note that only Prof. Winston's first half of the course has the same syllabus as
 ### Web Programming
 * Prof. Bryan Yu - Harvard University: [Video Lectures](https://www.youtube.com/playlist?list=PLnzclEQVIaQ54ND1eteyEXQ4rujQYRQAS)
 * محمد صالحه - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74/)
+* دکتر رامتین خسروی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-mk208/)
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 
 ### MultiMedia Systems
 {Currently Empty}
