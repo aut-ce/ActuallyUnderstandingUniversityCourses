@@ -17,7 +17,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 - [Physics 1](#physics-1)
 - [Mathematics for Computer Science](#mathematics-for-computer-science)
 - [Advanced Programming](#advanced-programming)
-- [MultiVariable Variable Calculus](#multivariable-variable-calculus)
+- [MultiVariable Variable Calculus](#multi-variable-calculus)
 - [Physics 2](#physics-2)
 - [Probability and Statistics](#probability-and-statistics)
 - [Linear Algebra](#linear-algebra)
@@ -75,7 +75,7 @@ Keep in mind that the above courses only quite loosely cover the material presen
 
 Keep in mind that this course teaches C++ as its primary programming language, so it could only replace CE104 in terms of concepts since CE104 uses Java.
 
-### MultiVariable Variable Calculus
+### Multi Variable Calculus
 * Prof. Denis Auroux - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) - [Video Lectures](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - [TA Sessions](https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01)
 * ریاضی ۱ - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B2-mk25/)
 
