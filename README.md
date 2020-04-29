@@ -24,7 +24,7 @@ Keep in mind that this course teaches Python as its primary programming language
 
 Keep in mind that these courses only quite loosely cover the material presented in CE103 (Discrete Mathematics) and you'll need to read the domestic course's material as well.
 
-* ریاضیات گسسته - دکتر میرامید حاجی میرصادقی - [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA-%DA%AF%D8%B3%D8%B3%D8%AA%D9%87-mk83/)
+* ریاضیات گسسته - دکتر میرامید حاجی میرصادقی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA-%DA%AF%D8%B3%D8%B3%D8%AA%D9%87-mk83/)
 
 ## Math-related
 
