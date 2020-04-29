@@ -96,7 +96,7 @@ Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessor
 * Prof. Nick McKeown & Prof. Philip Levis - Stanford University: [Video Lectures](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) - [Course Material for Nick](https://cs144.github.io/) - [Course Material for Phil](https://www.scs.stanford.edu/10au-cs144/) - [On GitHub](https://github.com/CS144)
 
 ### Software Engineering
-* Programming Methodology - Prof. Mehran Sahami - Stanford University: [Course Material](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL3BD1325B3C4F50BE) - [Video Lectures](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852)
+* Programming Methodology - Prof. Mehran Sahami - Stanford University: [Course Material](https://web.stanford.edu/class/cs106a/) - [Video Lectures](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852)
 
 ## Math-related
 
