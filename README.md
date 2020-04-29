@@ -1,9 +1,10 @@
 # A List of useful courses from around the world to make up for the shortcomings of our educational system.
-How to actually get an intuition from what's being taught at most Iranian universities which is awfully memory-based and lacks a proper understanding.
+How to actually get an intuition from what's being taught at most Iranian universities which is awfully memory-based and lacks a proper understanding. 
 The course list is mainly based on the educational planning of CE@AUT, with some additional content.
 
 NOTE that as we're practically unable to find courses, let alone verifying the quality and the syllabus of them, issues and pull requests are deeply appreciated. 
 It's also worth noting that you should use a VPN in order to gain access to edX courses as Iranian users are denied access due to U.S sanctions.
+DISCLAIMER: Enlisting a course here doesn't mean that anyone here thinks any particular professor can't teach properly.
 
 ### For a general list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome).
 
@@ -84,6 +85,7 @@ Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessor
 ### Automata Theory
 * Prof. Jeff Ulman - Stanford University: [edX Course](https://www.edx.org/course/automata-theory)
 * Prof. ??? - UC Davis: [Video Lectures](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
+* نظریه محاسبه - دکتر محمدهادی فروغمند - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87-mk380/)
 
 ### Microprocessors and Aseembly
 {Currently Empty}
@@ -105,17 +107,58 @@ Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessor
 Note that Prof. Pavlo's course seems like a very advanced course that goes beyond the CE@AUT course's material quickly.
 * دکتر مرتضی امینی - دانشگاه صنعتی شریف - [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/)
 
-## Math-related
+### MultiCore Programming
+* GPU Teaching Kit - Accelerated Computing: [Course Material (including Video Lectures)](http://syllabus.gputeachingkit.com/)
+* Performance Engineering of Software Systems - Prof. Charles Leiserson - MIT: [Course Matrial](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
 
-### University Courses
+Note that Prof. Leiserson's syllabus only slightly coincides with CE@AUT's Multiprogramming course.
 
-* [Probability and Statistics](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - Joe Blitzstein (Google his name, seriously) - Harvard University
+### Signals and Systems
+* Prof Alan Oppenheim - MIT: [Course Material](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) 
+* Prof Dennis Freeman - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs) 
 
-* [Differential Equations](https://www.youtube.com/playlist?list=PLEC88901EBADDD980) - MIT
+Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught it CE@AUT.
 
-* [Multivariable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - MIT
+### Artifical Intelligence
+* Prof. Patrick Winston - MIT: : [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) 
 
-* [Linear Algebra](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) - Gilbert Strang - MIT
+Note that only Prof. Winston's first half of the course has the same syllabus as CE@AUT's course.
+
+* دکتر مهدیه سلیمانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/229-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-mk229/)
+
+### Data Mining
+* Mining of Massive Datasets - Prof. Jeff Ulman - Stanford: : [Course Book](http://www.mmds.org/) - [Video Lectures](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV) - [edX Course](https://www.edx.org/course/mining-massive-datasets)
+* Statistical Aspects of Data Mining - Prof. David Mease - Stanford: [Course Material](http://www.stats202.com/original_index.html) - [Video Lectures](https://www.youtube.com/playlist?list=PLWfzepGZwJgbQcyg_oLkjkL6qIDu4w2ib)
+
+### Information Retrieval
+{Currently Empty}
+
+### Bioinformaatics
+* Foundations of Computational and Systems Biology - Prof. Christopher Burge - MIT: : [Course Material](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac) 
+* مقدمه‌ای بر بیوانفورماتیک - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D9%82%D8%AF%D9%85%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1-%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%B2%DB%8C%D8%B3%D8%AA%DB%8C-mk374/)
+* بیوانفورماتیک پیش‌رفته - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk375/)
+* بیوانفورماتیک پیش‌رفته ۲ - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-2-mk439/)
+* الگوریتم‌های بیوانفورماتیک - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-mk633/)
+
+### Web Programming
+* Prof. Bryan Yu - Harvard University: [Video Lectures](https://www.youtube.com/playlist?list=PLnzclEQVIaQ54ND1eteyEXQ4rujQYRQAS)
+* محمد صالحه - دانشگاه صنعتی شریف: [لینک مکتب‌خونه] (https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74/)
+
+### MultiMedia Systems
+{Currently Empty}
+
+### Mobile Programming 
+{Currently Empty}
+
+### Information Security
+* Prof. Nickolai Zeldovich - MIT: : [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh) 
+
+### Computer Graphics
+* Prof. Justin Solomon - MIT: [Video Lectures](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuKZjdA3fY1_X9gXn13JLlW)
+
+### Computational Complexity Theory
+* Prof. Ryan O'Donnel - Carengie Mellon: [Course Material](http://www.cs.cmu.edu/~15455/) - [Video Lectures](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
+
 
 ### Youtube Playlists
 * [Understanding Differential Equations](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
