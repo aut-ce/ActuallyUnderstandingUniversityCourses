@@ -62,6 +62,9 @@ Keep in mind that this course uses Python as its primary programming language, s
 * Classical Mechanics - Leonard Susskind - Stanford University: [Video Lectures](https://www.youtube.com/playlist?list=PL47F408D36D4CF129) 
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 * دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/96-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk96/)
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
+![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
+
 * دکتر محمود بهمن‌آبادی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/122-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk122/)
 
 ### Mathematics for Computer Science
@@ -74,6 +77,7 @@ Keep in mind that the above courses only quite loosely cover the material presen
 
 ### Advanced Programming
 * دکتر رامتین خسروی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk187/) ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
+![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
 
 Keep in mind that this course teaches C++ as its primary programming language, so it could only replace CE104 in terms of concepts since CE104 uses Java.
 
@@ -87,6 +91,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 * دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%DB%B2-mk114/) 
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
+![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
 ### Probability and Statistics
 * Prof. Joe Blitzstein - Harvard University: [Course Material](https://projects.iq.harvard.edu/stat110/home) - [Video Lectures](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - [edX Course](https://www.edx.org/course/introduction-to-probability-0)
