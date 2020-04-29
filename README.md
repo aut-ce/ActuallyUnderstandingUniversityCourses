@@ -22,7 +22,7 @@ Keep in mind that this course teaches Python as its primary programming language
 * Prof. Tom Leighton - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) - [Video Lectures](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
 * Prof. Albert R. Meyer MIT: [Course Material (Video lectures inside)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
-Keep in mind that these courses only quite loosely cover the material presented in CE103 (Discrete Mathematics) and you'll need to read the domestic course's material as well.
+Keep in mind that the above courses only quite loosely cover the material presented in CE103 (Discrete Mathematics) and you'll need to read the domestic course's material as well.
 
 * ریاضیات گسسته - دکتر میرامید حاجی میرصادقی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA-%DA%AF%D8%B3%D8%B3%D8%AA%D9%87-mk83/)
 
