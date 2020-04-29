@@ -103,10 +103,12 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ### Linear Algebra
 * Prof. Gilbert Strang - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 * جبر خطی - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/18-%D8%AC%D8%A8%D8%B1-%D8%AE%D8%B7%DB%8C-mk18/)
+![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 
 ### Differential Equations
 * Prof. Haynes Miller - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLEC88901EBADDD980)
-* معادلات دیفرانسیل - دکتر دارا معظمی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/70-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84-mk70/) 
+* معادلات دیفرانسیل - دکتر دارا معظمی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/70-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84-mk70/)
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 * معادلات دیفرانسیل - دکتر امیر جعفری - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/)
 
@@ -120,8 +122,8 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ### Logical Circuits
 * مدارهای منطقی - دکتر محمود تابنده - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D8%AF%D8%A7%D8%B1-%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%B7%D9%82%DB%8C-mk85/)
 * مدارهای منطقی - دکتر زین‌العابدین نوابی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/278-%D9%85%D8%AF%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%B7%D9%82%DB%8C-mk278/)
-
-Dr. Navabi's course covers much more detailed material compared to the CE@AUT version. So don't panic.
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
+![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 
 ### Electrical Circuits
 * Prof. Ali Hajmiri - Caltech: [Video Lectures](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z)
