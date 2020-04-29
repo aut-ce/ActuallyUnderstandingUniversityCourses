@@ -54,8 +54,9 @@ Keep in mind that this course uses Python as its primary programming language, s
 
 ### Physics 1
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 * Classical Mechanics - Leonard Susskind - Stanford University: [Video Lectures](https://www.youtube.com/playlist?list=PL47F408D36D4CF129) 
-![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)]
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 * دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/96-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk96/)
 * دکتر محمود بهمن‌آبادی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/122-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk122/)
 
@@ -78,10 +79,12 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 
 ### Physics 2
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 * دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%DB%B2-mk114/)
 
 ### Probability and Statistics
 * Prof. Joe Blitzstein - Harvard University: [Course Material](https://projects.iq.harvard.edu/stat110/home) - [Video Lectures](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - [edX Course](https://www.edx.org/course/introduction-to-probability-0)
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 * آمار و احتمال مهندسی - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-mk627/)
 * آمار و احتمال مهندسی - دکتر محمدمهدی نایبی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D8%A7%D8%B1-%D9%88-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-mk79/)
 
@@ -111,7 +114,7 @@ Dr. Navabi's course covers much more detailed material compared to the CE@AUT ve
 * Prof. Ali Hajmiri - Caltech: [Video Lectures](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z)
 
 ### Computer Organization and Architecture
-* Prof. Onur Mutlu - Carengie Mellon University: - [Video Lectures](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
+* Prof. Onur Mutlu - Carnegie Mellon University: - [Video Lectures](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
 * معماری کامپیوتر - دکتر مازیار گودرزی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
 
 Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessors and Aseembly Language at CE@AUT) and the syllabus' order is almost the inverse of what is taught in CE@AUT's course.
@@ -149,13 +152,15 @@ Note that Prof. Leiserson's syllabus only slightly coincides with CE@AUT's Multi
 
 ### Signals and Systems
 * Prof Alan Oppenheim - MIT: [Course Material](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) 
-* Fourier Transforms and its Applications - Prof. Brad Osgood - Stanford Unviersity: [Video Lectures](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-mk398/) RECOMMENDED
+* Fourier Transforms and its Applications - Prof. Brad Osgood - Stanford Unviersity: [Video Lectures](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-mk398/)
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) ![Recommended](https://img.shields.io/badge/-Recommended-blueviolets) 
 * Prof Dennis Freeman - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs) 
 
 Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught it CE@AUT.
 
 ### Artifical Intelligence
 * Prof. Patrick Winston - MIT: : [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) 
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 
 Note that only Prof. Winston's first half of the course has the same syllabus as CE@AUT's course.
 
