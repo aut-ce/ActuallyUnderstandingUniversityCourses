@@ -14,6 +14,9 @@ Keep in mind that this course teaches Python as its primary programming language
 * Prof. David Jerison - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) - [Video Lectures (including Useful TA Sessions)](https://www.youtube.com/watch?v=2y4tCiWbVRI&list=PL39017AD85AC0EA05)
 * دکتر میرامید حاجی‌صادقی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/)
 
+#### MultiVariable Variable Calculus
+* Prof. Denis Auroux - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) - [Video Lectures](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38) - [TA Sessions](https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01)
+
 #### Mathematics for Computer Science
 * Prof. Tom Leighton - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) - [Video Lectures](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
 * Prof. Albert R. Meyer MIT: [Course Material (Video lectures inside)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
