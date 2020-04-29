@@ -1,7 +1,8 @@
 # A List of useful courses from around the world to make up for the shortcomings of our universities.
 How to actually get an intuition from what's being taught at Iranian universities, which is awfully memory-based and lacks a proper understanding.
 This list is mostly based on the educational planning of CE@AUT, with some additional content.
-NOTE that as we are practically unable to find courses, let alone verifying the quality and the syllabus of them, issues and pull requests are deeply appreciated. 
+
+NOTE that as we're practically unable to find courses, let alone verifying the quality and the syllabus of them, issues and pull requests are deeply appreciated. 
 
 ## For a general list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome).
 
@@ -30,6 +31,10 @@ Keep in mind that the above courses only quite loosely cover the material presen
 * Prof. Joe Blitzstein - Harvard University: [Course Material](https://projects.iq.harvard.edu/stat110/home) - [Video Lectures](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - [edX Course](https://www.edx.org/course/introduction-to-probability-0)
 * آمار و احتمال مهندسی - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-mk627/)
 * آمار و احتمال مهندسی - دکتر محمدمهدی نایبی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D8%A7%D8%B1-%D9%88-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-mk79/)
+
+#### Linear Algebra
+* Prof. Gilbert Strang - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+* جبر خطی - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/18-%D8%AC%D8%A8%D8%B1-%D8%AE%D8%B7%DB%8C-mk18/)
 
 ## Math-related
 
