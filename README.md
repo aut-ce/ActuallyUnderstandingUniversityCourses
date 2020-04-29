@@ -140,7 +140,7 @@ Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessor
 
 ### Database Systems
 * Prof. Jennifer Widom - Stanford University: [Video Lectures](https://www.youtube.com/playlist?list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3)
-* Prof. Andy Pavlo  - Carengie Mellon: [Video Lectures (Notes and Slides in the description)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+* Prof. Andy Pavlo  - Carnegie Mellon University: [Video Lectures (Notes and Slides in the description)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 
 Note that Prof. Pavlo's course seems like a very advanced course that goes beyond the CE@AUT course's material quickly.
 * دکتر مرتضی امینی - دانشگاه صنعتی شریف - [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/)
