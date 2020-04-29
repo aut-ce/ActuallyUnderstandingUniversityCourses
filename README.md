@@ -3,7 +3,7 @@ How to actually get an intuition from what's being taught at most Iranian univer
 The course list is mainly based on the educational planning of CE@AUT, with some additional content.
 
 ### Some notes and disclaimers:
-* Some of the courses have been watched by the maintainers of this repo and have been qualified as being able to provide  high-quality education for the interested.
+* Some of the courses have been watched by the maintainers of this repo and have been qualified as being able to provide  high-quality education for the interested. The said courses will have ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) in front of them.
 * As we're practically unable to find all the good courses -let alone verifying the quality and the syllabus of them-, issues and pull requests are deeply appreciated. 
 * On the same note, some unverified courses might be removed in the future if they prove themselves to be unfitting.
 * You should use a VPN in order to gain access to edX courses as Iranian users are denied access due to U.S sanctions.
@@ -71,7 +71,7 @@ Keep in mind that the above courses only quite loosely cover the material presen
 * ریاضیات گسسته - دکتر میرامید حاجی میرصادقی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA-%DA%AF%D8%B3%D8%B3%D8%AA%D9%87-mk83/)
 
 ### Advanced Programming
-* دکتر رامتین خسروی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk187/)
+* دکتر رامتین خسروی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk187/) ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 
 Keep in mind that this course teaches C++ as its primary programming language, so it could only replace CE104 in terms of concepts since CE104 uses Java.
 
@@ -82,7 +82,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ### Physics 2
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
-* دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%DB%B2-mk114/)
+* دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%DB%B2-mk114/) ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 
 ### Probability and Statistics
 * Prof. Joe Blitzstein - Harvard University: [Course Material](https://projects.iq.harvard.edu/stat110/home) - [Video Lectures](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - [edX Course](https://www.edx.org/course/introduction-to-probability-0)
