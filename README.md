@@ -228,7 +228,7 @@ Only Prof. Winston's first half of the course has the same syllabus as CE@AUT's 
 * Prof. Justin Solomon - MIT: [Video Lectures](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuKZjdA3fY1_X9gXn13JLlW)
 
 ### Computational Complexity Theory
-* Prof. Ryan O'Donnell - Carengie Mellon: [Course Material](http://www.cs.cmu.edu/~15455/) - [Video Lectures](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
+* Prof. Ryan O'Donnell - Carnegie Mellon University: [Course Material](http://www.cs.cmu.edu/~15455/) - [Video Lectures](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
 * دکتر محمدهادی فروغمند - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-mk398/)
 
 
