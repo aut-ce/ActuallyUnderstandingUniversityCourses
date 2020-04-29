@@ -21,6 +21,7 @@ Keep in mind that this course uses Python as its primary programming language, s
 
 ### Physics 1
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
+* Classical Mechanics - Leonard Susskind - Stanford University: [Video Lectures](https://www.youtube.com/playlist?list=PL47F408D36D4CF129)
 * دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/96-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk96/)
 * دکتر محمود بهمن‌آبادی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/122-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk122/)
 
@@ -158,6 +159,7 @@ Note that only Prof. Winston's first half of the course has the same syllabus as
 
 ### Computational Complexity Theory
 * Prof. Ryan O'Donnel - Carengie Mellon: [Course Material](http://www.cs.cmu.edu/~15455/) - [Video Lectures](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
+* دکتر محمدهادی فروغمند - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-mk398/)
 
 
 ### Youtube Playlists
