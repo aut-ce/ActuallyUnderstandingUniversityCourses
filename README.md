@@ -37,7 +37,7 @@ Keep in mind that the above courses only quite loosely cover the material presen
 * جبر خطی - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/18-%D8%AC%D8%A8%D8%B1-%D8%AE%D8%B7%DB%8C-mk18/)
 
 ### Differential Equations
-* Prof. Haynes Miller - MIT [Course Material](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLEC88901EBADDD980)
+* Prof. Haynes Miller - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLEC88901EBADDD980)
 * معادلات دیفرانسیل - دکتر دارا معظمی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/70-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84-mk70/)
 * معادلات دیفرانسیل - دکتر امیر جعفری - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/)
 
