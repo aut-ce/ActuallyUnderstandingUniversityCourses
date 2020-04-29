@@ -41,6 +41,14 @@ Keep in mind that the above courses only quite loosely cover the material presen
 * معادلات دیفرانسیل - دکتر دارا معظمی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/70-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84-mk70/)
 * معادلات دیفرانسیل - دکتر امیر جعفری - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/)
 
+### Data Structures
+* Data Structures and Advanced Programming - Prof. Jonathan Shewchuk - University of Berekley: [Course Material](https://people.eecs.berkeley.edu/~jrs/61b/) - [Video Lectures](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61b-spring2014-berkeley.html)
+* ساختمان داده‌ها - دکتر محمدعلی آبام: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7-mk118/)
+
+### Algorithms
+* Introduction to Algorithms - Prof. Erik Demaine - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+* طراحی الگوریتم‌ها - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%AF%DA%A9%D8%AA%D8%B1-%D8%B4%D8%B1%DB%8C%D9%81%DB%8C-%D8%B2%D8%A7%D8%B1%DA%86%DB%8C-mk662/)
+
 ## Math-related
 
 ### University Courses
