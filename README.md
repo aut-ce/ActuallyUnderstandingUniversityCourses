@@ -3,6 +3,7 @@ How to actually get an intuition from what's being taught at most Iranian univer
 The course list is mainly based on the educational planning of CE@AUT, with some additional content.
 
 NOTE that as we're practically unable to find courses, let alone verifying the quality and the syllabus of them, issues and pull requests are deeply appreciated. 
+It's also worth noting that you should use a VPN in order to gain access to edX courses as Iranian users are denied access due to U.S sanctions.
 
 ## For a general list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome).
 
@@ -66,14 +67,18 @@ Keep in mind that the above courses only quite loosely cover the material presen
 
 Dr. Navabi's course covers much more detailed material compared to the CE@AUT version. So don't panic.
 
-## Electrical Circuits
+### Electrical Circuits
 * Prof. Ali Hajmiri - Caltech: [Video Lectures](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z)
 
-## Computer Organization and Architecture
+### Computer Organization and Architecture
 * Prof. Onur Mutlu - Carengie Mellon University: - [Video Lectures](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
 * معماری کامپیوتر - دکتر مازیار گودرزی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
 
 Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessors and Aseembly Language at CE@AUT) and the syllabus' order is almost the inverse of what is taught in CE@AUT's course.
+
+### Automata Theory
+* Prof. Jeff Ulman - Stanford University: [edX Course](https://www.edx.org/course/automata-theory)
+* Prof. ??? - UC Davis [Video Lectures](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
 
 ## Math-related
 
