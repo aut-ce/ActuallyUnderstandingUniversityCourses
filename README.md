@@ -51,7 +51,7 @@ Keep in mind that the above courses only quite loosely cover the material presen
 ### Physics 1
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
 * دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/96-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk96/)
-* دکتر محمود بهمن‌آبادی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه] (https://maktabkhooneh.org/course/122-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk122/)
+* دکتر محمود بهمن‌آبادی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/122-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk122/)
 
 ### Physics 2
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
