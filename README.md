@@ -167,6 +167,8 @@ Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessor
 
 Note that Prof. Pavlo's course seems like a very advanced course that goes beyond the CE@AUT course's material quickly.
 * دکتر مرتضی امینی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/)
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) 
+![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
 
 ### MultiCore Programming
 * GPU Teaching Kit - Accelerated Computing: [Course Material (including Video Lectures)](http://syllabus.gputeachingkit.com/)
