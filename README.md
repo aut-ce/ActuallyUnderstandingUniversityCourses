@@ -90,6 +90,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ### Physics 2
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
+![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 * دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%DB%B2-mk114/) 
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
