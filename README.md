@@ -74,8 +74,6 @@ Keep in mind that this course uses Python as its primary programming language, s
 
 Keep in mind that the above courses only quite loosely cover the material presented in CE103 (Discrete Mathematics) and you'll need to read the domestic course's material as well.
 
-* ریاضیات گسسته - دکتر میرامید حاجی میرصادقی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA-%DA%AF%D8%B3%D8%B3%D8%AA%D9%87-mk83/)
-
 ### Advanced Programming
 * دکتر رامتین خسروی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk187/) ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
@@ -85,6 +83,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ### Multi Variable Calculus
 * Prof. Denis Auroux - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) - [Video Lectures](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - [TA Sessions](https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01)
 * ریاضی ۲ - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B2-mk25/)
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
 ### Physics 2
@@ -104,6 +103,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ### Linear Algebra
 * Prof. Gilbert Strang - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 * جبر خطی - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/18-%D8%AC%D8%A8%D8%B1-%D8%AE%D8%B7%DB%8C-mk18/)
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 
 ### Differential Equations
@@ -112,6 +112,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 * معادلات دیفرانسیل - دکتر امیر جعفری - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/)
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
 ### Data Structures & Algorithms
@@ -143,6 +144,7 @@ Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessor
 * Prof. Jeff Ulman - Stanford University: [edX Course](https://www.edx.org/course/automata-theory)
 * Prof. ??? - UC Davis: [Video Lectures](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
 * نظریه محاسبه - دکتر محمدهادی فروغمند - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87-mk380/)
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
 ### Microprocessors and Assembly Language
@@ -230,6 +232,7 @@ Only Prof. Winston's first half of the course has the same syllabus as CE@AUT's 
 ### Computational Complexity Theory
 * Prof. Ryan O'Donnell - Carnegie Mellon University: [Course Material](http://www.cs.cmu.edu/~15455/) - [Video Lectures](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
 * دکتر محمدهادی فروغمند - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-mk398/)
+![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 
 
 ### Related Youtube Playlists
