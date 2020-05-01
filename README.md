@@ -138,7 +138,6 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 
 ### Computer Organization and Architecture
 * Prof. Onur Mutlu - Carnegie Mellon University: - [Video Lectures](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
-* معماری کامپیوتر - دکتر مازیار گودرزی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
 
 Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessors and Aseembly Language at CE@AUT) and the syllabus' order is almost the inverse of what is taught in CE@AUT's course.
 
@@ -195,7 +194,7 @@ Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught
 
 * Prof. Bryan Yu - Harvard University: [edX Course](https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/)
 
-Only Prof. Winston's first half of the course has the same syllabus as CE@AUT's course.
+Only Prof. Winston's first half of the course has the same syllabus as CE@AUT's first half.
 
 * دکتر مهدیه سلیمانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/229-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-mk229/)
 
