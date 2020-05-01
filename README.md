@@ -55,8 +55,6 @@ Keep in mind that this course uses Python as its primary programming language, s
 
 ### Single Variable Calculus
 * Prof. David Jerison - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) - [Video Lectures (including Useful TA Sessions)](https://www.youtube.com/playlist?list=PL39017AD85AC0EA05)
-* ریاضی ۱ - دکتر میرامید حاجی‌میرصادقی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B1-mk137/) 
-![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
 ### Physics 1
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
