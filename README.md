@@ -100,7 +100,6 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 * آمار و احتمال مهندسی - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-mk627/)
-* آمار و احتمال مهندسی - دکتر محمدمهدی نایبی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D8%A7%D8%B1-%D9%88-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-mk79/)
 
 ### Linear Algebra
 * Prof. Gilbert Strang - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
