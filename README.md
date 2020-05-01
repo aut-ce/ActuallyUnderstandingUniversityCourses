@@ -195,7 +195,7 @@ Only Prof. Winston's first half of the course has the same syllabus as CE@AUT's 
 * دکتر مهدیه سلیمانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/229-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-mk229/)
 
 ### Data Mining
-* Mining of Massive Datasets - Prof. Jeff Ulman - Stanford: : [Course Book](http://www.mmds.org/) - [Video Lectures](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV) - [edX Course](https://www.edx.org/course/mining-massive-datasets)
+* Mining of Massive Datasets - Prof. Jeff Ulman - Stanford: [Course Book](http://www.mmds.org/) - [Video Lectures](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV) - [edX Course](https://www.edx.org/course/mining-massive-datasets)
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 * Statistical Aspects of Data Mining - Prof. David Mease - Stanford: [Course Material](http://www.stats202.com/original_index.html) - [Video Lectures](https://www.youtube.com/playlist?list=PLWfzepGZwJgbQcyg_oLkjkL6qIDu4w2ib)
 
