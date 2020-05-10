@@ -190,7 +190,7 @@ Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught
 
 * Prof. Bryan Yu - Harvard University: [edX Course](https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/)
 
-Only Prof. Winston's first half of the course has the same syllabus as CE@AUT's first half.
+Only Prof. Winston's first half of the course has the same syllabus as CE@AUT's first half, although the second half of his course partly coincides with the Computational Intelligence course.
 
 * دکتر مهدیه سلیمانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/229-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-mk229/)
 
