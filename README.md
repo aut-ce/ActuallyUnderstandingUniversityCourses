@@ -104,6 +104,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 * جبر خطی - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/18-%D8%AC%D8%A8%D8%B1-%D8%AE%D8%B7%DB%8C-mk18/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
+* Also check out [this](https://github.com/MatinTavakoli/Linear-Algebra) useful repository.
 
 ### Differential Equations
 * Prof. Haynes Miller - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLEC88901EBADDD980)
