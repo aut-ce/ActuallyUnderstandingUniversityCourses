@@ -220,7 +220,7 @@ Only Prof. Winston's first half of the course has the same syllabus as CE@AUT's 
 {Currently Empty}
 
 ### Mobile Programming 
-{Currently Empty}
+* iPhone Application Development - Paul Hegarty - Stanford University: [Video Lectures](https://www.youtube.com/playlist?list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG)
 
 ### Information Security
 * Prof. Nickolai Zeldovich - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh) 
