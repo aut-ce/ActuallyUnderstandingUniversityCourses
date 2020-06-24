@@ -15,11 +15,11 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 
 ## University Courses
 - [Introduction to Computer Science and Programming](#introduction-to-computer-science-and-programming)
-- [Single Variable Calculus](#single-variable-calculus)
+- [Single Variable Calculus (aka Math. (I))](#single-variable-calculus)
 - [Physics 1](#physics-1)
 - [Mathematics for Computer Science](#mathematics-for-computer-science)
 - [Advanced Programming](#advanced-programming)
-- [Multi Variable Calculus](#multi-variable-calculus)
+- [Multi Variable Calculus (aka Math. (II))](#multi-variable-calculus)
 - [Physics 2](#physics-2)
 - [Probability and Statistics](#probability-and-statistics)
 - [Linear Algebra](#linear-algebra)
