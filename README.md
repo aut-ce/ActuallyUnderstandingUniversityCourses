@@ -233,7 +233,7 @@ Note that only the first half of Prof. Winston's course has the same syllabus as
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 
 ### Missing Semester 
-Hosted at [this youtube channel](https://www.youtube.com/channel/UCuXy5tCgEninup9cGplbiFw), the Missing Semester tries to provide CE/CS students with some extracurricular material that many find to be missing in the current educational system.
+Hosted at [this YouTube channel](https://www.youtube.com/channel/UCuXy5tCgEninup9cGplbiFw), the Missing Semester tries to provide CE/CS students with some extracurricular material that many find to be missing in the current educational system.
 
 
 ### Related Youtube Playlists
