@@ -46,6 +46,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 - [Information Security](#information-security)
 - [Computer Graphics](#computer-graphics)
 - [Computational Complexity Theory](#computational-complexity-theory)
+- [Missing Semester](#missing-semester)
 
 ### Introduction to Computer Science and Programming
 * Prof. John Gutlag - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
@@ -135,8 +136,6 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 
 ### Computer Organization and Architecture
 * Prof. Onur Mutlu - Carnegie Mellon University: - [Video Lectures](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
-
-Dr. Goodarzi's course also includes Assembly (which is covered in MicroProsessors and Aseembly Language at CE@AUT) and the syllabus' order is almost the inverse of what is taught in CE@AUT's course.
 
 ### Automata Theory
 * Prof. Jeff Ulman - Stanford University: [edX Course](https://www.edx.org/course/automata-theory)
@@ -232,6 +231,9 @@ Only Prof. Winston's first half of the course has the same syllabus as CE@AUT's 
 * Prof. Ryan O'Donnell - Carnegie Mellon University: [Course Material](http://www.cs.cmu.edu/~15455/) - [Video Lectures](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
 * دکتر محمدهادی فروغمند - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-mk398/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
+
+### Missing Semester 
+Hosted at [this youtube channel](https://www.youtube.com/channel/UCuXy5tCgEninup9cGplbiFw), the Missing Semester tries to provide CE/CS students with some extracurricural material that could be of great use to them and fill the gap that's made by the lack of it in the classical educational system.
 
 
 ### Related Youtube Playlists
