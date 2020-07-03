@@ -3,13 +3,13 @@ How to actually get an intuition from what's being taught at most Iranian univer
 The course list is mainly based on the educational planning of CE@AUT, with some additional content.
 
 ### Some notes and disclaimers:
-* Some of the courses have been watched by the maintainers of this repo and have been qualified as being able to provide  high-quality education for the interested. The said courses will have ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) in front of them.
-* Some of the courses have almost the same syllabus as the courses taught in AUT. Those will be marked by ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue). If it does that and then some, it'll be tagged with ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange), If it only partially covers the AUT course, it'll be tagged with ![Syllabus Less](https://img.shields.io/badge/Syllabus-Less-red) and if it is only related to the AUT course, it'll be tagged with ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
-* As some courses' materials change over the years, we don't guarantee that our badges are 100% accurate, they're just our estimation. 
+* Some of the courses have been watched by the maintainers of this repository and have been qualified as being able to provide  high-quality education for the interested. The said courses will have ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) in front of them.
+* Some of the courses have almost the same syllabus as the courses taught in AUT. Those are marked here by ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue). If it does that and then some, it'll be tagged with ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange), If it only partially covers the AUT course, it'll be tagged with ![Syllabus Less](https://img.shields.io/badge/Syllabus-Less-red) and if it's only related to the AUT course, it'll be tagged with ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
+* As some courses' materials change over the years, we can't (and won't) guarantee that our badges are and will be 100% accurate all the time. Those badges are but our estimation. 
 * As we're practically unable to find all the good courses -let alone verifying the quality and the syllabus of them-, issues and pull requests are deeply appreciated. 
 * On the same note, some unverified courses might be removed in the future if they prove themselves to be unfitting.
-* You should use a VPN in order to gain access to edX courses as Iranian users are denied access due to U.S sanctions.
-* Enlisting a course here doesn't mean that anyone here thinks any particular professor can't teach properly.
+* You might want to use a VPN in order to gain access to edX courses since Iranian users are denied access due of the U.S government's sanctions.
+* Enlisting a course here doesn't mean that any particular professor's teaching abilities are under question.
 
 ### For a general list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome).
 
@@ -52,7 +52,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 * Prof. John Gutlag - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
 ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
 
-Keep in mind that this course uses Python as its primary programming language, so it could only replace CE101 in terms of concepts since CE101 uses C.
+Keep in mind that this course teaches Python as its primary programming language, so it could only replace CE101 in terms of concepts since C is CE101's prefered language.
 
 ### Single Variable Calculus
 * Prof. David Jerison - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) - [Video Lectures (including Useful TA Sessions)](https://www.youtube.com/playlist?list=PL39017AD85AC0EA05)
@@ -161,7 +161,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 * Prof. Andy Pavlo  - Carnegie Mellon University: [Video Lectures (Notes and Slides in the description)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi) 
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 
-Note that Prof. Pavlo's course seems like a very advanced course that goes beyond the CE@AUT course's material quickly.
+Note that Prof. Pavlo's course seems like a very advanced course that goes beyond the CE@AUT course's material very quickly.
 * دکتر مرتضی امینی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) 
 ![Syllabus Less](https://img.shields.io/badge/Syllabus-Less-red)
@@ -170,7 +170,7 @@ Note that Prof. Pavlo's course seems like a very advanced course that goes beyon
 * GPU Teaching Kit - Accelerated Computing: [Course Material (including Video Lectures)](http://syllabus.gputeachingkit.com/)
 * Performance Engineering of Software Systems - Prof. Charles Leiserson - MIT: [Course Matrial](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
 
-Note that Prof. Leiserson's syllabus only slightly coincides with CE@AUT's Multiprogramming course.
+Note that Prof. Leiserson's syllabus only slightly coincides with CE@AUT's MultiCore Programming course.
 
 ### Signals and Systems
 * Prof. Alan Oppenheim - MIT: [Course Material](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) 
@@ -190,7 +190,7 @@ Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught
 
 * Prof. Bryan Yu - Harvard University: [edX Course](https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/)
 
-Only Prof. Winston's first half of the course has the same syllabus as CE@AUT's first half, although the second half of his course partly coincides with the Computational Intelligence course.
+Note that only the first half of Prof. Winston's course has the same syllabus as CE@AUT's first half, although the second half of his course partly coincides with the Computational Intelligence course.
 
 * دکتر مهدیه سلیمانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/229-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-mk229/)
 
@@ -233,7 +233,7 @@ Only Prof. Winston's first half of the course has the same syllabus as CE@AUT's 
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 
 ### Missing Semester 
-Hosted at [this youtube channel](https://www.youtube.com/channel/UCuXy5tCgEninup9cGplbiFw), the Missing Semester tries to provide CE/CS students with some extracurricural material that could be of great use to them and fill the gap that's made by the lack of it in the classical educational system.
+Hosted at [this youtube channel](https://www.youtube.com/channel/UCuXy5tCgEninup9cGplbiFw), the Missing Semester tries to provide CE/CS students with some extracurricular material that many find to be missing in the current educational system.
 
 
 ### Related Youtube Playlists
