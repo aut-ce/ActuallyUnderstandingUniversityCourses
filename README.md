@@ -82,7 +82,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 
 ### Multi Variable Calculus
 * Prof. Denis Auroux - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) - [Video Lectures](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - [TA Sessions](https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01)
-* ریاضی ۲ - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B2-mk25/)
+* ریاضی ۲ - دکتر سیاوش شهشهانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B2-mk25/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 
@@ -102,7 +102,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 
 ### Linear Algebra
 * Prof. Gilbert Strang - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
-* جبر خطی - دکتر سیاوش شهشانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/18-%D8%AC%D8%A8%D8%B1-%D8%AE%D8%B7%DB%8C-mk18/)
+* جبر خطی - دکتر سیاوش شهشهانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/18-%D8%AC%D8%A8%D8%B1-%D8%AE%D8%B7%DB%8C-mk18/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 * Also check out [this](https://github.com/MatinTavakoli/Linear-Algebra) useful repository.
