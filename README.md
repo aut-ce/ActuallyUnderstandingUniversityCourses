@@ -5,8 +5,8 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 ### Some notes and disclaimers:
 * Some of the courses have been watched by the maintainers of this repository and have been qualified as being able to provide  high-quality education for the interested. The said courses will have ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) in front of them.
 * Some of the courses have almost the same syllabus as the courses taught in AUT. Those are marked here by ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue). If the said course does that and then some, it'll be tagged with ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange), If it only partially covers the AUT course, it'll be tagged with ![Syllabus Less](https://img.shields.io/badge/Syllabus-Less-red) and if it's only related to the AUT course, it'll be tagged with ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
-* As some courses' materials change over the years, we can't (and won't) guarantee that our badges are (and will be) 100% accurate (for eternity). The badges are but our estimates. 
-* As we're practically unable to find all the informative courses -let alone verifying their qualities and syllabuses-, issues and pull requests are deeply appreciated. 
+* As the materials of some courses change over the years, we can't (and won't) guarantee that our badges are (and will be) 100% accurate (for eternity). The badges are but our estimates. 
+* As we're practically unable to find every informative course out there -let alone verifying their qualities and syllabi-, issues and pull requests are deeply appreciated. 
 * On the previous note, some unverified courses might be removed in the future if they prove themselves to be unfitting.
 * You might need to use a VPN in order to gain access to edX courses since Iranian users are denied access due to the U.S. government's sanctions.
 * Enlisting a course here is not used as a mean to question any particular professor's teaching abilities.
