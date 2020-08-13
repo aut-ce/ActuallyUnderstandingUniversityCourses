@@ -36,7 +36,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 - [Database Systems](#database-systems)
 - [MultiCore Programming](#multicore-programming)
 - [Signals and Systems](#signals-and-systems)
-- [Artifical Intelligence](#artifical-intelligence)
+- [Artificial Intelligence](#artificial-intelligence)
 - [Data Mining](#data-mining)
 - [Information Retrieval](#information-retrieval)
 - [Bioinformatics](#bioinformatics)
@@ -183,8 +183,8 @@ Note that Prof. Leiserson's syllabus only slightly coincides with CE@AUT's Multi
 
 Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught in CE@AUT.
 
-### Artifical Intelligence
-* Prof. Patrick Winston - MIT: : [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) 
+### Artificial Intelligence
+* Prof. Patrick Winston - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) 
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus Less](https://img.shields.io/badge/Syllabus-Less-red)
 
