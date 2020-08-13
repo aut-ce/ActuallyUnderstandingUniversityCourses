@@ -1,6 +1,6 @@
 # A List of useful courses from around the world to make up for the shortcomings of our educational system.
 How to actually get an intuition from what's being taught at most Iranian universities which is awfully memory-based and lacks a proper understanding. 
-The course list is mainly based on the educational planning of CE@AUT, with some additional content.
+The course list is mainly based on the educational planning of @AUT-CE, with some additional content.
 
 ### Some notes and disclaimers:
 * Some of the courses have been watched by the maintainers of this repository and have been qualified as being able to provide  high-quality education for the interested. The said courses will have ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) in front of them.
