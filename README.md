@@ -29,7 +29,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 - [Electrical Circuits](#electrical-circuits)
 - [Computer Organization and Architecture](#computer-organization-and-architecture)
 - [Automata Theory](#automata-theory)
-- [Microprocessors and Assembly](#microprocessors-and-assembly)
+- [Microprocessors and Assembly](#microprocessors-and-assembly-language)
 - [Operating Systems](#operating-systems)
 - [Computer Networking](#computer-networking)
 - [Software Engineering](#software-engineering)
