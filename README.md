@@ -9,7 +9,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 * As we're practically unable to find all the good courses -let alone verifying their qualities and syllabuses-, issues and pull requests are deeply appreciated. 
 * On the same note, some unverified courses might be removed in the future if they prove themselves to be unfitting.
 * You might need to use a VPN in order to gain access to edX courses since Iranian users are denied access due to the U.S. government's sanctions.
-* Enlisting a course here doesn't mean that any particular professor's teaching abilities are under question.
+* Enlisting a course here is not used as a mean to question any particular professor's teaching abilities.
 
 ### For a general list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome).
 
