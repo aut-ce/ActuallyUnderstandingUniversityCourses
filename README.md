@@ -11,7 +11,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 * You might need to use a VPN in order to gain access to edX courses since Iranian users are denied access due to the U.S. government's sanctions.
 * Enlisting a course here is not used as a mean to question any particular professor's teaching abilities.
 
-### For a general list full of everything, Visit [Awesome-list](https://github.com/sindresorhus/awesome).
+### For a general list full of everything, visit [Awesome-list](https://github.com/sindresorhus/awesome).
 
 ## University Courses
 - [Introduction to Computer Science and Programming](#introduction-to-computer-science-and-programming)
