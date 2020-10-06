@@ -1,5 +1,5 @@
 # A List of useful courses from around the world to make up for the shortcomings of our educational system.
-How to actually get an intuition from what's being taught at most Iranian universities which is awfully memory-based and lacks a proper understanding. 
+This repository is a list of publicly available matrerials for actually understanding the courses being taught at Iranian universities, mostly in the form of video lectures made publicly availble on YouTube by universities such as Stanford, MIT, and so on. The Persian courses are mostly due to Sharif University of Technology's decision to make most of its courses available on platforms such as [Sharif's OpenCourseWare](http://ocw.sharif.edu/) and [MaktabKhooneh](https://maktabkhooneh.org/).
 The course list is mainly based on the educational planning of CE@AUT, with some additional content.
 
 ### Some notes and disclaimers:
@@ -8,7 +8,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 * As the materials of some courses change over the years, we can't (and won't) guarantee that our badges are (and will be) 100% accurate (for eternity). The badges are but our estimates. 
 * As we're practically unable to find every informative course out there -let alone verifying their qualities and syllabi-, issues and pull requests are deeply appreciated. 
 * On the previous note, some unverified courses might be removed in the future if they prove themselves to be unfitting.
-* You might need to use a VPN in order to gain access to edX courses since Iranian users are denied access due to the U.S. government's sanctions.
+* You might need to use a VPN in order to gain access to edX courses since Iranian users are denied access courtesy of the U.S. government.
 * Enlisting a course here is not used as a mean to question any particular professor's teaching abilities.
 
 ### For a general list full of everything, visit [Awesome-list](https://github.com/sindresorhus/awesome).
