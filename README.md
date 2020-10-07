@@ -65,7 +65,6 @@ Keep in mind that this course teaches Python as its primary programming language
 * دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/96-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk96/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
-
 * دکتر محمود بهمن‌آبادی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/122-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk122/)
 
 ### Mathematics for Computer Science
