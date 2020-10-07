@@ -47,6 +47,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 - [Computer Graphics](#computer-graphics)
 - [Computational Complexity Theory](#computational-complexity-theory)
 - [Missing Semester](#missing-semester)
+- [Related YouTube Playlists](#related-youtube-playlists)
 
 ### Introduction to Computer Science and Programming
 * Prof. John Gutlag - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
