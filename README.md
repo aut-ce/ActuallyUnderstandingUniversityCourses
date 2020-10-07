@@ -187,7 +187,6 @@ Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught
 * Prof. Patrick Winston - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) 
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus Less](https://img.shields.io/badge/Syllabus-Less-red)
-
 * Prof. Bryan Yu - Harvard University: [edX Course](https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/)
 
 Note that only the first half of Prof. Winston's course has the same syllabus as CE@AUT's first half, although the second half of his course partly coincides with the Computational Intelligence course.
