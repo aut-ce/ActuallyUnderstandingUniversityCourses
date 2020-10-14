@@ -222,6 +222,7 @@ Note that only the first half of Prof. Winston's course has the same syllabus as
 
 ### Information Security
 * Prof. Nickolai Zeldovich - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh) 
+* Cryptography - Prof. Shafi Goldwasser - MIT: [Video Lectures](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH).
 
 ### Computer Graphics
 * Prof. Justin Solomon - MIT: [Video Lectures](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuKZjdA3fY1_X9gXn13JLlW)
