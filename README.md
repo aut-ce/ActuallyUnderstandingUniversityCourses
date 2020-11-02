@@ -61,8 +61,6 @@ Keep in mind that this course teaches Python as its primary programming language
 ### Physics 1
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
-* Classical Mechanics - Prof. Leonard Susskind - Stanford University: [Video Lectures](https://www.youtube.com/playlist?list=PL47F408D36D4CF129) 
-![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
 * دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/96-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk96/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
