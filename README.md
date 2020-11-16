@@ -133,10 +133,11 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 
 ### Computer Organization and Architecture
-* Prof. Onur Mutlu - Carnegie Mellon University: - [Video Lectures](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
-* Prof. Onur Mutlu - ETH Zurich: - [Course Material](https://safari.ethz.ch/architecture/doku.php) - [Video Lectures](https://www.youtube.com/watch?v=c3mPdZA-Fmc&list=PL5Q2soXY2Zi9xidyIgBxUz7xRPS-wisBN) ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
-* Prof. Rajeev Balasubramonian - University of Utah: - [Course Material](http://www.cs.utah.edu/~rajeev/cs3810/) - [Video Lectures](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy) ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
-* Prof. David Wentzlaff - Princeton University: - [Video Lectures](https://www.coursera.org/learn/comparch) ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
+* Prof. Onur Mutlu - Carnegie Mellon University: [Video Lectures](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
+* Prof. Onur Mutlu - ETH Zurich: [Course Material](https://safari.ethz.ch/architecture/doku.php) - [Video Lectures](https://www.youtube.com/watch?v=c3mPdZA-Fmc&list=PL5Q2soXY2Zi9xidyIgBxUz7xRPS-wisBN) ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
+* Prof. Rajeev Balasubramonian - University of Utah: [Course Material](http://www.cs.utah.edu/~rajeev/cs3810/) - [Video Lectures](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy) ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
+* Prof. David Wentzlaff - Princeton University: [Video Lectures](https://www.coursera.org/learn/comparch) ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
+
 ### Automata Theory
 * Prof. Jeff Ulman - Stanford University: [edX Course](https://www.edx.org/course/automata-theory)
 * نظریه محاسبه - دکتر محمدهادی فروغمند - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87-mk380/)
