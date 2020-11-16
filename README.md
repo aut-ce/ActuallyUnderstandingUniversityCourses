@@ -93,7 +93,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
 ### Probability and Statistics
-* Prof. Joe Blitzstein - Harvard University: [Course Material](https://projects.iq.harvard.edu/stat110/home) - [Video Lectures](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - [edX Course](https://www.edx.org/course/introduction-to-probability-0)
+* Prof. Joe Blitzstein - Harvard: [Course Material](https://projects.iq.harvard.edu/stat110/home) - [Video Lectures](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - [edX Course](https://www.edx.org/course/introduction-to-probability-0)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 * آمار و احتمال مهندسی - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-mk627/)
@@ -115,10 +115,10 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
 ### Data Structures & Algorithms
-* Data Structures and Advanced Programming - Prof. Jonathan Shewchuk - University of Berekley: [Course Material](https://people.eecs.berkeley.edu/~jrs/61b/) - [Video Lectures](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61b-spring2014-berkeley.html)
+* Data Structures and Advanced Programming - Prof. Jonathan Shewchuk - UC Berekley: [Course Material](https://people.eecs.berkeley.edu/~jrs/61b/) - [Video Lectures](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61b-spring2014-berkeley.html)
 * Introduction to Algorithms - Prof. Erik Demaine - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 * Advanced Data Structures - Prof. Erik Demaine - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
-* Advanced Algorithms - Prof. Jelani Nelson - Harvard University: [Course Material](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) - [Video Lectures](https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
+* Advanced Algorithms - Prof. Jelani Nelson - Harvard: [Course Material](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) - [Video Lectures](https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 * طراحی الگوریتم‌ها - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%AF%DA%A9%D8%AA%D8%B1-%D8%B4%D8%B1%DB%8C%D9%81%DB%8C-%D8%B2%D8%A7%D8%B1%DA%86%DB%8C-mk662/)
 
 ### Logical Circuits
@@ -133,13 +133,13 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 
 ### Computer Organization and Architecture
-* Prof. Onur Mutlu - Carnegie Mellon University: [Video Lectures](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
+* Prof. Onur Mutlu - Carnegie Mellon: [Video Lectures](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
 * Prof. Onur Mutlu - ETH Zurich: [Course Material](https://safari.ethz.ch/architecture/doku.php) - [Video Lectures](https://www.youtube.com/watch?v=c3mPdZA-Fmc&list=PL5Q2soXY2Zi9xidyIgBxUz7xRPS-wisBN) ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
-* Prof. Rajeev Balasubramonian - University of Utah: [Course Material](http://www.cs.utah.edu/~rajeev/cs3810/) - [Video Lectures](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy) ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
-* Prof. David Wentzlaff - Princeton University: [Video Lectures](https://www.coursera.org/learn/comparch) ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
+* Prof. Rajeev Balasubramonian - Utah: [Course Material](http://www.cs.utah.edu/~rajeev/cs3810/) - [Video Lectures](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy) ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
+* Prof. David Wentzlaff - Princeton: [Video Lectures](https://www.coursera.org/learn/comparch) ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
 
 ### Automata Theory
-* Prof. Jeff Ulman - Stanford University: [edX Course](https://www.edx.org/course/automata-theory)
+* Prof. Jeff Ulman - Stanford: [edX Course](https://www.edx.org/course/automata-theory)
 * نظریه محاسبه - دکتر محمدهادی فروغمند - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87-mk380/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
@@ -148,18 +148,18 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 {Currently Empty}
 
 ### Operating Systems
-* Prof. John Kubiatowicz - Berekley: [Course Material](https://cs162.eecs.berkeley.edu/) - [Video Lectures](https://www.youtube.com/playlist?list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws)
-* Prof. Anthony Joseph - Berekley: [Video Lectures](https://www.youtube.com/playlist?list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM)
+* Prof. John Kubiatowicz - UC Berekley: [Course Material](https://cs162.eecs.berkeley.edu/) - [Video Lectures](https://www.youtube.com/playlist?list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws)
+* Prof. Anthony Joseph - UC Berekley: [Video Lectures](https://www.youtube.com/playlist?list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM)
 
 ### Computer Networking
-* Prof. Nick McKeown & Prof. Philip Levis - Stanford University: [Video Lectures](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) - [Course Material for Prof. McKeown](https://cs144.github.io/) - [Course Material for Prof. Levis](https://www.scs.stanford.edu/10au-cs144/) - [On GitHub](https://github.com/CS144)
+* Prof. Nick McKeown & Prof. Philip Levis - Stanford: [Video Lectures](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) - [Course Material for Prof. McKeown](https://cs144.github.io/) - [Course Material for Prof. Levis](https://www.scs.stanford.edu/10au-cs144/) - [On GitHub](https://github.com/CS144)
 
 ### Software Engineering
-* Programming Methodology - Prof. Mehran Sahami - Stanford University: [Course Material](https://web.stanford.edu/class/cs106a/) - [Video Lectures](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852)
+* Programming Methodology - Prof. Mehran Sahami - Stanford: [Course Material](https://web.stanford.edu/class/cs106a/) - [Video Lectures](https://www.youtube.com/view_play_list?p=84A56BC7F4A1F852)
 
 ### Database Systems
-* Prof. Jennifer Widom - Stanford University: [Video Lectures](https://www.youtube.com/playlist?list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3)
-* Prof. Andy Pavlo  - Carnegie Mellon University: [Video Lectures (Notes and Slides in the description)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi) 
+* Prof. Jennifer Widom - Stanford: [Video Lectures](https://www.youtube.com/playlist?list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3)
+* Prof. Andy Pavlo  - Carnegie Mellon: [Video Lectures (Notes and Slides in the description)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi) 
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 
 Note that Prof. Pavlo's course seems like a very advanced course that goes beyond the CE@AUT course's material very quickly.
@@ -176,7 +176,7 @@ Note that Prof. Leiserson's syllabus only slightly coincides with CE@AUT's Multi
 ### Signals and Systems
 * Prof. Alan Oppenheim - MIT: [Course Material](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) 
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
-* Fourier Transforms and its Applications - Prof. Brad Osgood - Stanford Unviersity: [Video Lectures](https://www.youtube.com/playlist?list=PLB24BC7956EE040CD)
+* Fourier Transforms and its Applications - Prof. Brad Osgood - Stanford: [Video Lectures](https://www.youtube.com/playlist?list=PLB24BC7956EE040CD)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) 
 ![Recommended](https://img.shields.io/badge/-Recommended-blueviolet) 
 ![Syllabus More](https://img.shields.io/badge/Syllabus-Different-lightgray)
@@ -188,7 +188,7 @@ Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught
 * Prof. Patrick Winston - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) 
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus Less](https://img.shields.io/badge/Syllabus-Less-red)
-* Prof. Bryan Yu - Harvard University: [edX Course](https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/)
+* Prof. Bryan Yu - Harvard: [edX Course](https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/)
 
 Note that only the first half of Prof. Winston's course has the same syllabus as CE@AUT's first half, although the second half of his course partly coincides with the Computational Intelligence course.
 
@@ -210,7 +210,7 @@ Note that only the first half of Prof. Winston's course has the same syllabus as
 * الگوریتم‌های بیوانفورماتیک - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-mk633/)
 
 ### Web Programming
-* Prof. Bryan Yu - Harvard University: [Video Lectures](https://www.youtube.com/playlist?list=PLnzclEQVIaQ54ND1eteyEXQ4rujQYRQAS)
+* Prof. Bryan Yu - Harvard: [Video Lectures](https://www.youtube.com/playlist?list=PLnzclEQVIaQ54ND1eteyEXQ4rujQYRQAS)
 * محمد صالحه - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74/)
 * دکتر رامتین خسروی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-mk208/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
@@ -219,7 +219,7 @@ Note that only the first half of Prof. Winston's course has the same syllabus as
 {Currently Empty}
 
 ### Mobile Programming 
-* iPhone Application Development - Paul Hegarty - Stanford University: [Video Lectures](https://www.youtube.com/playlist?list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG)
+* iPhone Application Development - Paul Hegarty - Stanford: [Video Lectures](https://www.youtube.com/playlist?list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG)
 
 ### Information Security
 * Prof. Nickolai Zeldovich - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh) 
@@ -229,7 +229,7 @@ Note that only the first half of Prof. Winston's course has the same syllabus as
 * Prof. Justin Solomon - MIT: [Video Lectures](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuKZjdA3fY1_X9gXn13JLlW)
 
 ### Computational Complexity Theory
-* Prof. Ryan O'Donnell - Carnegie Mellon University: [Course Material](http://www.cs.cmu.edu/~15455/) - [Video Lectures](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
+* Prof. Ryan O'Donnell - Carnegie Mellon: [Course Material](http://www.cs.cmu.edu/~15455/) - [Video Lectures](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
 * دکتر محمدهادی فروغمند - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-mk398/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 
