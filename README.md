@@ -80,6 +80,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 
 ### Multi Variable Calculus
 * Prof. Denis Auroux - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) - [Video Lectures](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - [TA Sessions](https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01)
+- Grant Sanderson: [Khan Academy](https://www.khanacademy.org/math/multivariable-calculus) - [Youtube Playlist](https://www.khanacademy.org/math/multivariable-calculus). ![Recommended](https://img.shields.io/badge/-Recommended-blueviolet) 
 * ریاضی ۲ - دکتر سیاوش شهشهانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B2-mk25/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
