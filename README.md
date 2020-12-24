@@ -53,7 +53,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 * Prof. John Guttag - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
 ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
 
-Keep in mind that this course teaches Python as its primary programming language, so it could only replace CE101 in terms of concepts since C is CE101's prefered language.
+Keep in mind that this course teaches Python as its primary programming language, so it could only replace CE101 in terms of concepts since C is CE101's preferred language.
 
 ### Single Variable Calculus
 * Prof. David Jerison - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) - [Video Lectures (including Useful TA Sessions)](https://www.youtube.com/playlist?list=PL39017AD85AC0EA05)
