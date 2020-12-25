@@ -108,7 +108,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 * Also check out [this](https://github.com/MatinTavakoli/Linear-Algebra) useful repository.
 
 ### Differential Equations
-* Prof. Haynes Miller - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLEC88901EBADDD980) - [Video Lectures with TA](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E) ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
+* Prof. Haynes Miller - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLEC88901EBADDD980) - [Video Lectures with TA](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E) ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
 * دکتر دارا معظمی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/70-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84-mk70/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
