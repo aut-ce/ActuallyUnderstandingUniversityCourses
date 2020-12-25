@@ -57,14 +57,15 @@ Keep in mind that this course teaches Python as its primary programming language
 
 ### Single Variable Calculus
 * Prof. David Jerison - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) - [Video Lectures (including Useful TA Sessions)](https://www.youtube.com/playlist?list=PL39017AD85AC0EA05)
+* دکتر سیاوش شهشهانی - دانشگاه شریف - [لینک شریف OCW](http://videos.math.sharif.ir/courses.php?course=general_math-fall94) ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 
 ### Physics 1
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
-* دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/96-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk96/)
+* دکتر محمدرضا اجتهادی  - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/96-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk96/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
-* دکتر محمود بهمن‌آبادی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/122-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk122/)
+* دکتر محمود بهمن‌آبادی - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/122-%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%D9%A1-mk122/)
 
 ### Mathematics for Computer Science
 * Prof. Tom Leighton - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) - [Video Lectures](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
@@ -81,7 +82,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ### Multi Variable Calculus
 * Prof. Denis Auroux - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) - [Video Lectures](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - [TA Sessions](https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01)
 * Grant Sanderson: [Khan Academy](https://www.khanacademy.org/math/multivariable-calculus) - [YouTube Playlist](https://www.khanacademy.org/math/multivariable-calculus) ![Recommended](https://img.shields.io/badge/-Recommended-blueviolet) 
-* دکتر سیاوش شهشهانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B2-mk25/)
+* دکتر سیاوش شهشهانی - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%DB%B2-mk25/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 
@@ -89,7 +90,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
-* دکتر محمدرضا اجتهادی  - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%DB%B2-mk114/) 
+* دکتر محمدرضا اجتهادی  - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%81%DB%8C%D8%B2%DB%8C%DA%A9-%DB%B2-mk114/) 
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
@@ -97,11 +98,11 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 * Prof. Joe Blitzstein - Harvard: [Course Material](https://projects.iq.harvard.edu/stat110/home) - [Video Lectures](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) - [edX Course](https://www.edx.org/course/introduction-to-probability-0)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
-* آمار و احتمال مهندسی - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-mk627/)
+* آمار و احتمال مهندسی - دکتر علی شریفی زارچی - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-mk627/)
 
 ### Linear Algebra
 * Prof. Gilbert Strang - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
-* دکتر سیاوش شهشهانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/18-%D8%AC%D8%A8%D8%B1-%D8%AE%D8%B7%DB%8C-mk18/)
+* دکتر سیاوش شهشهانی - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/18-%D8%AC%D8%A8%D8%B1-%D8%AE%D8%B7%DB%8C-mk18/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 * Also check out [this](https://github.com/MatinTavakoli/Linear-Algebra) useful repository.
@@ -111,7 +112,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 * دکتر دارا معظمی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/70-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84-mk70/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
-* دکتر امیر جعفری - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/)
+* دکتر امیر جعفری - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%8A%D9%84-mk98/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
@@ -120,10 +121,10 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 * Introduction to Algorithms - Prof. Erik Demaine - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 * Advanced Data Structures - Prof. Erik Demaine - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
 * Advanced Algorithms - Prof. Jelani Nelson - Harvard: [Course Material](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) - [Video Lectures](https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
-* طراحی الگوریتم‌ها - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%AF%DA%A9%D8%AA%D8%B1-%D8%B4%D8%B1%DB%8C%D9%81%DB%8C-%D8%B2%D8%A7%D8%B1%DA%86%DB%8C-mk662/)
+* طراحی الگوریتم‌ها - دکتر علی شریفی زارچی - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%AF%DA%A9%D8%AA%D8%B1-%D8%B4%D8%B1%DB%8C%D9%81%DB%8C-%D8%B2%D8%A7%D8%B1%DA%86%DB%8C-mk662/)
 
 ### Logical Circuits
-* دکتر محمود تابنده - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D8%AF%D8%A7%D8%B1-%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%B7%D9%82%DB%8C-mk85/)
+* دکتر محمود تابنده - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D8%AF%D8%A7%D8%B1-%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%B7%D9%82%DB%8C-mk85/)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 * دکتر زین‌العابدین نوابی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/278-%D9%85%D8%AF%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%B7%D9%82%DB%8C-mk278/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
@@ -141,7 +142,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 
 ### Automata Theory
 * Prof. Jeff Ulman - Stanford: [edX Course](https://www.edx.org/course/automata-theory)
-* نظریه محاسبه - دکتر محمدهادی فروغمند - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87-mk380/)
+* نظریه محاسبه - دکتر محمدهادی فروغمند - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87-mk380/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
@@ -164,7 +165,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)
 
 Note that Prof. Pavlo's course seems like a very advanced course that goes beyond the CE@AUT course's material very quickly.
-* دکتر مرتضی امینی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/)
+* دکتر مرتضی امینی - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success) 
 ![Syllabus Less](https://img.shields.io/badge/Syllabus-Less-red)
 
@@ -193,7 +194,7 @@ Note that the order of Prof. Freeman's syllabus isn't exactly the same as taught
 
 Note that only the first half of Prof. Winston's course has the same syllabus as CE@AUT's first half, although the second half of his course partly coincides with the Computational Intelligence course.
 
-* دکتر مهدیه سلیمانی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/229-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-mk229/)
+* دکتر مهدیه سلیمانی - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/229-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-mk229/)
 
 ### Data Mining
 * Mining of Massive Datasets - Prof. Jeff Ulman - Stanford: [Course Book](http://www.mmds.org/) - [Video Lectures](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV) - [edX Course](https://www.edx.org/course/mining-massive-datasets)
@@ -205,14 +206,14 @@ Note that only the first half of Prof. Winston's course has the same syllabus as
 
 ### Bioinformatics
 * Foundations of Computational and Systems Biology - Prof. Christopher Burge - MIT: [Course Material](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac) 
-* مقدمه‌ای بر بیوانفورماتیک - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D9%82%D8%AF%D9%85%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1-%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%B2%DB%8C%D8%B3%D8%AA%DB%8C-mk374/)
-* بیوانفورماتیک پیش‌رفته - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk375/)
-* بیوانفورماتیک پیش‌رفته ۲ - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-2-mk439/)
-* الگوریتم‌های بیوانفورماتیک - دکتر علی شریفی زارچی - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-mk633/)
+* مقدمه‌ای بر بیوانفورماتیک - دکتر علی شریفی زارچی - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D9%82%D8%AF%D9%85%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1-%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%B2%DB%8C%D8%B3%D8%AA%DB%8C-mk374/)
+* بیوانفورماتیک پیش‌رفته - دکتر علی شریفی زارچی - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk375/)
+* بیوانفورماتیک پیش‌رفته ۲ - دکتر علی شریفی زارچی - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-2-mk439/)
+* الگوریتم‌های بیوانفورماتیک - دکتر علی شریفی زارچی - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-mk633/)
 
 ### Web Programming
 * Prof. Bryan Yu - Harvard: [Video Lectures](https://www.youtube.com/playlist?list=PLnzclEQVIaQ54ND1eteyEXQ4rujQYRQAS)
-* محمد صالحه - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74/)
+* محمد صالحه - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74/)
 * دکتر رامتین خسروی - دانشگاه تهران: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-mk208/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 
@@ -231,7 +232,7 @@ Note that only the first half of Prof. Winston's course has the same syllabus as
 
 ### Computational Complexity Theory
 * Prof. Ryan O'Donnell - Carnegie Mellon: [Course Material](http://www.cs.cmu.edu/~15455/) - [Video Lectures](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
-* دکتر محمدهادی فروغمند - دانشگاه صنعتی شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-mk398/)
+* دکتر محمدهادی فروغمند - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-mk398/)
 ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 
 ### Missing Semester 
