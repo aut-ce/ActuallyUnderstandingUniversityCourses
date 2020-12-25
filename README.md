@@ -57,7 +57,7 @@ Keep in mind that this course teaches Python as its primary programming language
 
 ### Single Variable Calculus
 * Prof. David Jerison - MIT: [Course Material](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) - [Video Lectures (including Useful TA Sessions)](https://www.youtube.com/playlist?list=PL39017AD85AC0EA05)
-* دکتر سیاوش شهشهانی - دانشگاه شریف - [درس‌افزار آزاد شریف](http://videos.math.sharif.ir/courses.php?course=general_math-fall94) ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
+* دکتر سیاوش شهشهانی - دانشگاه شریف - [درس‌افزار آزاد شریف](http://ocw.sharif.edu/course/id/134/%D8%B3%DB%8C%D8%A7%D9%88%D8%B4-%D8%B4%D9%87%D8%B4%D9%87%D8%A7%D9%86%DB%8C-/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C%DB%B1.html) ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 
 ### Physics 1
 * Prof. Walter Lewin - MIT: [Video Lectures](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
