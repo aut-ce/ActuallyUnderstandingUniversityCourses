@@ -122,7 +122,7 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 * Advanced Data Structures - Prof. Erik Demaine - MIT: [Course Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) - [Video Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
 * Advanced Algorithms - Prof. Jelani Nelson - Harvard: [Course Material](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) - [Video Lectures](https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 * طراحی الگوریتم‌ها - دکتر علی شریفی زارچی - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%AF%DA%A9%D8%AA%D8%B1-%D8%B4%D8%B1%DB%8C%D9%81%DB%8C-%D8%B2%D8%A7%D8%B1%DA%86%DB%8C-mk662/)
-* آنالیز الگوریتم‌ها - مرتضی علیمی - دانشگاه شریف: [لینک دراپ‌باکس](https://paper.dropbox.com/doc/OS6qC9wuOleOLl4BoD33K)
+* آنالیز الگوریتم‌ها - مرتضی علیمی - دانشگاه شریف: [لینک دراپ‌باکس](https://paper.dropbox.com/doc/OS6qC9wuOleOLl4BoD33K)  ![Quality Verified](https://img.shields.io/badge/Quality-Verified-success)
 
 ### Logical Circuits
 * دکتر محمود تابنده - دانشگاه شریف: [لینک مکتب‌خونه](https://maktabkhooneh.org/course/%D9%85%D8%AF%D8%A7%D8%B1-%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%B7%D9%82%DB%8C-mk85/)
