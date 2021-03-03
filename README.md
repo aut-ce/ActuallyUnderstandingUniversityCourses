@@ -12,6 +12,7 @@ The course list is mainly based on the educational planning of CE@AUT, with some
 * Enlisting a course here is not used as a mean to question any particular professor's teaching abilities.
 
 ### For a general list full of everything, visit [Awesome-list](https://github.com/sindresorhus/awesome).
+### For a general list of online CS courses, visit [cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
 
 ## University Courses
 - [Introduction to Computer Science and Programming](#introduction-to-computer-science-and-programming)
