@@ -149,7 +149,9 @@ Keep in mind that this course teaches C++ as its primary programming language, s
 ![Syllabus AUT](https://img.shields.io/badge/Syllabus-AUT-blue)
 
 ### Microprocessors and Assembly Language
-{Currently Empty}
+* Prof. Bruce R. Land - Cornell University: [Course Material](https://ocw.ece.cornell.edu/courses/ece-4760-designing-with-microcontrollers/) - [Video Lectures](https://ocw.ece.cornell.edu/courses/ece-4760-designing-with-microcontrollers/ece-4760-lecture-notes-and-handouts/) ![Syllabus More](https://img.shields.io/badge/Syllabus-More-orange)	
+
+* Mr. Ehsan Aerabi - Hamedan University of Technology: [Course Material](https://maktabkhooneh.org/course/%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1%D9%87%D8%A7%DB%8C-AVR-mk162/) ![Syllabus Different](https://img.shields.io/badge/Syllabus-Different-lightgray)
 
 ### Operating Systems
 * Prof. John Kubiatowicz - UC Berekley: [Course Material](https://cs162.eecs.berkeley.edu/) - [Video Lectures](https://www.youtube.com/playlist?list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws)
